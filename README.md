@@ -21,7 +21,7 @@ https://acyao.github.io/react-todo-app/
 
 6. npm run deploy
 
-7. push your commit to GitHub:
+7. push your commit to GitHub: <br />
 -git add . <br />
 -git commit -m "Your awesome message" <br />
 -git push origin master <br />
